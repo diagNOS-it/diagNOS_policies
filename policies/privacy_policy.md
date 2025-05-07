@@ -38,6 +38,7 @@ We do not sell your personal information. However, we may share your information
 
 - **Supabase** – for secure cloud hosting and user authentication
 - **Adaptly** – to process and manage subscription payments, including in-app purchases
+- **RevenueCat** – to process and manage subscription payments, including in-app purchases
 
 These providers are contractually obligated to protect your information and use it only for the services they provide to us.
 
